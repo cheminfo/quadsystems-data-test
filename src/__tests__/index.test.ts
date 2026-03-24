@@ -22,6 +22,6 @@ test('check getFile', async () => {
 test('check files', async () => {
   const files = await quadsystemsFiles.files();
 
-  expect(files).toHaveLength(19);
+  expect(files).toHaveLength(24);
   expect(files.map((f) => f.name)).toContain(filename);
 });
