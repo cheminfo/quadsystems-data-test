@@ -32,12 +32,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nmrdata/quadsystems-data-test.git"
+    "url": "git+https://github.com/cheminfo/quadsystems-data-test.git"
   },
   "bugs": {
-    "url": "https://github.com/nmrdata/quadsystems-data-test/issues"
+    "url": "https://github.com/cheminfo/quadsystems-data-test/issues"
   },
-  "homepage": "https://github.com/nmrdata/quadsystems-data-test#readme",
+  "homepage": "https://github.com/cheminfo/quadsystems-data-test#readme",
   "dependencies": {
     "data-test-api": "^1.0.2"
   },

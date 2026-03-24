@@ -66,7 +66,7 @@ data
 
 [npm-image]: https://img.shields.io/npm/v/quadsystems-data-test.svg
 [npm-url]: https://www.npmjs.com/package/quadsystems-data-test
-[ci-image]: https://github.com/nmrdata/quadsystems-data-test/workflows/Node.js%20CI/badge.svg?branch=main
-[ci-url]: https://github.com/nmrdata/quadsystems-data-test/actions?query=workflow%3A%22Node.js+CI%22
+[ci-image]: https://github.com/cheminfo/quadsystems-data-test/workflows/Node.js%20CI/badge.svg?branch=main
+[ci-url]: https://github.com/cheminfo/quadsystems-data-test/actions?query=workflow%3A%22Node.js+CI%22
 [download-image]: https://img.shields.io/npm/dm/quadsystems-data-test.svg
 [download-url]: https://www.npmjs.com/package/quadsystems-data-test
