@@ -4,6 +4,13 @@
 
 - exports data for nmp ([80cd552](https://github.com/cheminfo/jeol-data-test/commit/80cd552bda7c75dde0f27031060b56326c47ec92))
 
+## [1.0.1](https://github.com/cheminfo/quadsystems-data-test/compare/v1.0.0...v1.0.1) (2026-03-25)
+
+
+### Bug Fixes
+
+* wrong header.xml for hsqc sample 3 ([#2](https://github.com/cheminfo/quadsystems-data-test/issues/2)) ([2ca7ee7](https://github.com/cheminfo/quadsystems-data-test/commit/2ca7ee7cd5fcfbb5fe1a9fe77b258b7f7f840b3f))
+
 ## 1.0.0 (2026-03-24)
 
 ### Features
