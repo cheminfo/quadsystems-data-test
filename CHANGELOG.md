@@ -6,16 +6,14 @@
 
 ## 1.0.0 (2026-03-24)
 
-
 ### Features
 
-* migrate to TypeScript, ESM, data-test-api, and modern tooling ([431cc94](https://github.com/cheminfo/quadsystems-data-test/commit/431cc94bb3738261951e208f8983230c07459501))
-* quadsystems data test with similar structure than jeol-data-test repo ([096fa29](https://github.com/cheminfo/quadsystems-data-test/commit/096fa29c91e0892dc2ac0268c6673c8151178954))
-
+- migrate to TypeScript, ESM, data-test-api, and modern tooling ([431cc94](https://github.com/cheminfo/quadsystems-data-test/commit/431cc94bb3738261951e208f8983230c07459501))
+- quadsystems data test with similar structure than jeol-data-test repo ([096fa29](https://github.com/cheminfo/quadsystems-data-test/commit/096fa29c91e0892dc2ac0268c6673c8151178954))
 
 ### Bug Fixes
 
-* disable codecov upload (no token for cheminfo org) ([63f9c96](https://github.com/cheminfo/quadsystems-data-test/commit/63f9c966ce6af8d4ecf83e28d31923b01d901d20))
+- disable codecov upload (no token for cheminfo org) ([63f9c96](https://github.com/cheminfo/quadsystems-data-test/commit/63f9c966ce6af8d4ecf83e28d31923b01d901d20))
 
 ## [0.5.1](https://github.com/cheminfo/jeol-data-test/compare/v0.5.0...v0.5.1) (2023-05-15)
 
